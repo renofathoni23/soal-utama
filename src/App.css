@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+section {
+  border: solid 1px #282c34;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
